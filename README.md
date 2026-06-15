@@ -1,2 +1,3 @@
-# ct-free-pet-correction
-Implementation of deep learning pipelines for CT-free attenuation and scatter correction in PET imaging.
+# CT-Free Deep Learning-Based Attenuation and Scatter Correction for PET Imaging
+
+## 
